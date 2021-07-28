@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(#4f099c, #0B3788);
+    color: white;
+    font-size: 50px;
+}
+#back{
+    height: 75px;
+    border-radius: 15px;
+    font-size: 60px;
+    background-color: blue;
+    color: white;
+}

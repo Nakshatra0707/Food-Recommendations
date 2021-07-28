@@ -1,0 +1,28 @@
+label{
+    font-size: 50px;
+}
+button{
+    font-size: 50px;
+    background-image: linear-gradient(green, yellowgreen);
+    color: white;
+}
+body{
+background-image: linear-gradient(#051937, #0B3789);
+height: 100%;
+}
+div{
+    background: linear-gradient(#4f099c, #0B3788);
+		margin-top: 18%;
+		float: none;
+		border-radius: 15px;
+        border-width: 10px;
+        border-top: 15px solid #1c9c4f;
+        color: white;
+}
+#back{
+    height: 75px;
+    border-radius: 15px;
+    font-size: 60px;
+    background-color: blue;
+    color: white;
+}
