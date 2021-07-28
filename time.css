@@ -7,16 +7,14 @@ button{
     color: white;
 }
 body{
-background-image: linear-gradient(purple, violet);
+background-image: linear-gradient(#051937, #0B3789);
 height: 100%;
 }
 div{
-    background: cyan;
-		margin-top: 20%;
+    background: linear-gradient(#4f099c, #0B3788);
+		margin-top: 18%;
 		float: none;
 		border-radius: 15px;
         border-width: 10px;
-        border-top: 20px solid red;
-        color: white;
-        height: 250px;
+        border-top: 15px solid #1c9c4f;
 }
