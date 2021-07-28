@@ -10,11 +10,11 @@ background-image: linear-gradient(#051937, #0B3789);
 height: 100%;
 }
 div{
-    background: #072456;
+    background: linear-gradient(#4f099c, #0B3788);
 		margin-top: 20%;
 		float: none;
 		border-radius: 15px;
         border-width: 10px;
-        border-top: 15px solid #4f099c;
+        border-top: 15px solid #1c9c4f;
         color: white;
 }
