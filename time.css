@@ -1,0 +1,22 @@
+label{
+    font-size: 50px;
+}
+button{
+    font-size: 50px;
+    background-image: linear-gradient(green, yellowgreen);
+    color: white;
+}
+body{
+background-image: linear-gradient(purple, violet);
+height: 100%;
+}
+div{
+    background: cyan;
+		margin-top: 20%;
+		float: none;
+		border-radius: 15px;
+        border-width: 10px;
+        border-top: 20px solid red;
+        color: white;
+        height: 250px;
+}
